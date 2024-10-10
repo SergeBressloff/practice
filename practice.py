@@ -1,4 +1,3 @@
-print("Hello")
-print("Hallo")
-print('Hey')
-print('Ciao')
+x = 20
+y = 40
+a = x * y
